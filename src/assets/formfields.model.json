@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "id": "username",
+            "label": "User Name",
+            "placeholder": "User Name",
+            "type":"INPUT",
+            "value":"",
+            "validators":{
+                "required":null
+            }
+        },
+        {
+            "id":"password",
+            "label":"Password",
+            "placeholder": "Password",
+            "type":"INPUT",
+            "value":"",
+            "validators":{
+                "required":null
+            }
+        }
+    ]
+}
